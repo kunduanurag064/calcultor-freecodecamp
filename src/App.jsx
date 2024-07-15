@@ -43,6 +43,7 @@ function App() {
           <button className='equal-class' onClick={handleResult}>=</button>
 
           </div>
+          <h3 style={{backgroundColor:"rgb(171, 169, 202)",color:"rgb(182, 107, 107)"}}>Designed and coded by - <a href="https://www.freecodecamp.org/anurag_kundu">Anurag Kundu</a></h3>
         </div>
       </div>
     </>
